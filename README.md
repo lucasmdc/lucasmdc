@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Limão, mas podem me chamar apenas de Limão! 😄
 
-Trabalho como Frontend Developer desde maio de 2017. Atualmente estou trabalhando na <a href="https://compass.uol/pt/" target="_blank">Compasso.uol.</a>
+Trabalho como Frontend Developer desde 2017. Atualmente estou trabalhando na <a href="https://compass.uol/pt/" target="_blank">Compasso.uol.</a>
 
 ##
 
@@ -15,13 +15,14 @@ Trabalho como Frontend Developer desde maio de 2017. Atualmente estou trabalhand
   <img height='40' width='40' alt='CSS3' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg' />
   <img height='40' width='40' alt='JavaScript' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' />
   <img height='40' width='40' alt='Vue.js - Versão 2.x' title='Versão 2.x' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg' /> 
+  <img height='40' width='40' alt='TypeScript' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
+  <img height='40' width='40' alt='React.js' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' /> 
 </div>
 
 ##### Estudando
 
 <div>
- <img height='40' width='40' alt='TypeScript' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
-  <img height='40' width='40' alt='React.js' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' /> 
+  <img height='80' width='80' alt='Node.js' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg' /> 
 </div>
 
 ## 
