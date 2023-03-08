@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Limão, mas podem me chamar apenas de Limão! 😄
 
-Trabalho como Frontend Developer desde 2017. Atualmente estou trabalhando na <a href="https://compass.uol/pt/" target="_blank">Compasso.uol.</a>
+Trabalho como Frontend Developer desde 2017.
 
 ##
 
